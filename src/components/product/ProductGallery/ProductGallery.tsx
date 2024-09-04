@@ -11,7 +11,7 @@ const ProductGallery: React.FC<ProductGalleryProps> = React.memo(
     return (
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {photos.map((photo) => (
-          <div key={photo.id} className="h-full">
+          <div key={`photo-${photo.albumId}-${photo.id}`} className="h-full">
             <ProductItem photo={photo} />
           </div>
         ))}
