@@ -24,13 +24,13 @@ A modern, responsive product gallery built with React, featuring lazy loading, p
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/react-product-gallery.git
+   git clone https://github.com/ritikagg/im24-7.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd react-product-gallery
+   cd supp
    ```
 
 3. Install dependencies:
@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Ritik Aggarwal - [@ritikagg](https://github.com/ritikagg) - mail.ritik.agg@gmail.com
 
-Project Link: [https://github.com/yourusername/react-product-gallery](https://github.com/yourusername/react-product-gallery)
+Project Link: [https://github.com/ritikagg/im24-7](https://github.com/ritikagg/im24-7)
