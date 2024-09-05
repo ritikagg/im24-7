@@ -2,6 +2,8 @@ export * from "./common/ErrorMessage";
 export * from "./common/LazyImage";
 export * from "./common/LoadingSpinner";
 export * from "./common/Pagination";
+export * from "./common/Switch";
+export * from "./icons/Icons";
 export * from "./layout/Header";
 export * from "./product";
 export * from "./search/SearchBar";
