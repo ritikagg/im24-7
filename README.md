@@ -1,12 +1,13 @@
 # React Product Gallery
 
-A modern, responsive product gallery built with React, featuring lazy loading, pagination, and dynamic sorting capabilities.
+A modern, responsive product gallery built with React, featuring lazy loading, pagination, infinite scroll, and dynamic sorting capabilities.
 
 ## 🌟 Features
 
 - **Responsive Grid Layout**: Adapts seamlessly to different screen sizes.
 - **Lazy Loading**: Images load as they enter the viewport for optimal performance.
 - **Pagination**: Navigate through product pages with ease.
+- **Infinite Scroll**: Dynamically load more products as the user scrolls.
 - **Dynamic Sorting**: Sort products by ID in ascending or descending order.
 - **Search Functionality**: Filter products based on their title.
 - **Product Details**: Click on a product to view more information in a modal.
